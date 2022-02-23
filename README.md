@@ -1,5 +1,12 @@
+# Quản Lý Thiếu Nhi - Đoàn TNTT Nam Hòa
+
+![Login](./screenshots/login.png)
+
+![Home Page](./screenshots/home.png)
+
+
 ## Build
 
 ```
-ng build --prod --output-path=build
+node_modules/@angular/cli/bin/ng build --prod
 ```
